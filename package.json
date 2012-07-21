@@ -1,28 +1,28 @@
 {
-    'name': 'TalePot',
-    'preferGlobal': 'true',
-    'version': '0.0.1',
-    'description': 'Game called "Stafettskrivning" in swedish.',
-    'contributors': [
+    "name": "TalePot",
+    "preferGlobal": "true",
+    "version": "0.0.1",
+    "description": "Game called \"Stafettskrivning\" in swedish.",
+    "contributors": [
         {
-            'name': 'Robin Sehalić',
-            'email': 'robin.sehalic@gmail.com'
+            "name": "Robin Sehalić",
+            "email": "robin.sehalic@gmail.com"
         },
         {
-            'name': 'Fredrik Simón',
-            'email': 'fredrik@fsimon.net'
+            "name": "Fredrik Simón",
+            "email": "fredrik@fsimon.net"
         }
     ],
-    'repository': {
-        'type': 'git',
-        'url': 'https://github.com/talepot/TalePot.git'
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/talepot/TalePot.git"
     },
-    'dependencies': {
-        'socket.io': '0.9.x',
-        'mongoose': '2.7.x',
-        'backbone': '0.9.x'
+    "dependencies": {
+        "socket.io": "0.9.x",
+        "mongoose": "2.7.x",
+        "backbone": "0.9.x"
     },
-    'engine': {
-        'node': '>=0.8'
+    "engine": {
+        "node": ">=0.8"
     }
 }
